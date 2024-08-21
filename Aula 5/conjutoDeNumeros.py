@@ -1,4 +1,4 @@
-num = int(input('Digite ps números encerrando com 0: \n'))
+num = int(input('Digite os números encerrando com 0: \n'))
 maior = num
 menor = num
 soma = 0
